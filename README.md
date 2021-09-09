@@ -11,7 +11,6 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngocson1996&layout=compact&hide=html" alt="tranngocson1996" /></p>
-
 <br />
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranngocson1996&show_icons=true" alt="tranngocson1996" /></p>
