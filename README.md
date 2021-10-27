@@ -8,9 +8,10 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-<br />
+## Github Stats : 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngocson1996&layout=compact&hide=html" alt="tranngocson1996" /></p>
-<br />
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranngocson1996&show_icons=true" alt="tranngocson1996" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tranngocson1996)
+
+![tanzila-abedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngocson1996&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranngocson1996&theme=dracula)](https://github.com/tranngocson1996/github-readme-stats)
