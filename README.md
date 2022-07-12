@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Viindoo](https://viindoo.com/)
 
-- 🌱 I’m currently learning **ASP.NET, Odoo, Python, Flutter**
+- 🌱 I’m currently learning **ASP.NET, ODOO, PYTHON, FLUTTER, HTML, CSS, SCSS**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
