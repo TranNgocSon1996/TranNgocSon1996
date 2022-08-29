@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mountain Tran</h1>
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="130">
+<img align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" width="130">
 <br>
 
 ![GitHub followers](https://img.shields.io/github/followers/tranngocson1996?logo=GitHub&style=for-the-badge)
