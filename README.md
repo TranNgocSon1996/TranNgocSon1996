@@ -14,8 +14,6 @@
 
 ## Github Stats : 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tranngocson1996&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![tanzila-abedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngocson1996&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranngocson1996&theme=dracula)](https://github.com/tranngocson1996/github-readme-stats)
