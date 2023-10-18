@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tranngocson1996?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Viindoo](https://viindoo.com/)
+- 🔭 I’m a Freelancer Developer
 
 - 🌱 I’m currently learning **ASP.NET, ODOO, PYTHON, FLUTTER, HTML, CSS, SCSS**
 
